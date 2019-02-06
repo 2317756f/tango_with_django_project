@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cc8439b-9352-4b35-a3e2-fb844d1a6a4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/media/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/rango.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/rango1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/rango/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/rango/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/views.py" afterDir="false" />
@@ -243,12 +247,12 @@
       <workItem from="1548862269224" duration="2686000" />
       <workItem from="1548966869858" duration="1638000" />
       <workItem from="1549462588574" duration="153000" />
-      <workItem from="1549462801369" duration="9992000" />
+      <workItem from="1549462801369" duration="10130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22630000" />
+    <option name="totallyTimeSpent" value="22768000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="925" extended-state="6" />
